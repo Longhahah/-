@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Login",
+    "pages/Map",
+    "pages/tongzhi",
+    "pages/tongzhi_detail",
+    "pages/jianzhu_detail",
+    "pages/User",
+    "pages/Fankui",
+    "pages/huodong_detail"
+  ]
+}
